@@ -1,1 +1,2 @@
 - https://proandroiddev.com/how-to-setup-android-sdk-without-android-studio-6d60d0f2812a
+  - ark: https://web.archive.org/web/20240325031432/https://proandroiddev.com/how-to-setup-android-sdk-without-android-studio-6d60d0f2812a?gi=dba6a96573f7
