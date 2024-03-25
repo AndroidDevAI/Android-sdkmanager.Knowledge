@@ -1,0 +1,1 @@
+- https://proandroiddev.com/how-to-setup-android-sdk-without-android-studio-6d60d0f2812a
